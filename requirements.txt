@@ -1,0 +1,10 @@
+langchain_community
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+beautifulsoup4
+PyPDF2
+faiss-cpu
+wikipedia
+langchainhub
